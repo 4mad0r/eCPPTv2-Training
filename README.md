@@ -2,8 +2,8 @@
 
 This repository documents my preparation journey for the **eCPPTv2** certification by INE Security, collecting structured penetration testing write-ups of the labs and machines I complete along the way.
 
-> 🇬🇧 Most write-ups will be in English, with some notes in Spanish.  
-> 🇪🇸 La mayoría de los writeups estarán en inglés, con algunas notas en español.
+> 🇬🇧 Most write-ups will be in Spanish, with some notes in English.  
+> 🇪🇸 La mayoría de los writeups estarán en español, con algunas notas en inglés.
 
 ---
 
