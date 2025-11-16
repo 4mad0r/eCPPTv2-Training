@@ -15,7 +15,7 @@ Planned structure (subject to change):
 - `pg/` – Proving Grounds / Offensive Security labs  
 - `ine-labs/` – INE labs related to eCPPTv2  
 - `misc/` – Other CTFs, vulnerable machines or practice scenarios  
-- `scripts/` – Helper scripts, one-liners, cheatsheets
+- `tools/` – Helper scripts, one-liners, cheatsheets
 
 Cada carpeta incluirá un `README.md` propio o un archivo por máquina con su writeup.
 
