@@ -23,6 +23,8 @@ Cada carpeta incluirá un `README.md` propio o un archivo por máquina con su wr
 
 ## 🧠 Writeup Format / Formato de los writeups
 
+<img width="408" height="299" alt="image" src="https://github.com/user-attachments/assets/2fc8c47e-021c-464d-a80c-3709a50f8b32" />
+
 Cada writeup intentará seguir una estructura similar:
 
 1. **Overview / Resumen**
